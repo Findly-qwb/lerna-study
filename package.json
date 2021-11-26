@@ -1,0 +1,13 @@
+{
+	"name": "lerna-repo",
+	"version": "0.0.1",
+	"description": "lerna study",
+	"main": "index.js",
+	"private": true,
+	"repository": "git@github.com:dianmaomao/lerna-study.git",
+	"author": "Findly",
+	"license": "MIT",
+	"devDependencies": {
+		"lerna": "^3.22.1"
+	}
+}
